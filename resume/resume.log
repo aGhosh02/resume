@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.1)  21 FEB 2024 15:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.1)  3 APR 2024 17:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -302,6 +302,76 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \TX@cols=\count278
 \TX@ftn=\toks24
 )
+(/opt/texlive/texdir/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count279
+\mult@box=\box56
+\multicol@leftmargin=\dimen159
+\c@unbalance=\count280
+\c@collectmore=\count281
+\doublecol@number=\count282
+\multicoltolerance=\count283
+\multicolpretolerance=\count284
+\full@width=\dimen160
+\page@free=\dimen161
+\premulticols=\dimen162
+\postmulticols=\dimen163
+\multicolsep=\skip66
+\multicolbaselineskip=\skip67
+\partial@page=\box57
+\last@line=\box58
+\mc@boxedresult=\box59
+\maxbalancingoverflow=\dimen164
+\mult@rightbox=\box60
+\mult@grightbox=\box61
+\mult@firstbox=\box62
+\mult@gfirstbox=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\c@minrows=\count285
+\c@columnbadness=\count286
+\c@finalcolumnbadness=\count287
+\last@try=\dimen165
+\multicolovershoot=\dimen166
+\multicolundershoot=\dimen167
+\mult@nat@firstbox=\box100
+\colbreak@box=\box101
+\mc@col@check@num=\count288
+)
 (/opt/texlive/texdir/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
 (/opt/texlive/texdir/texmf-dist/tex/latex/lato/lato.sty
 Package: lato 2019/06/20 Style file for Lato.
@@ -333,61 +403,61 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks25
 \XKV@tempa@toks=\toks26
 )
-\XKV@depth=\count279
+\XKV@depth=\count289
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
 LaTeX Font Info:    Trying to load font information for OT1+lato-TLF on input l
-ine 51.
+ine 52.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/lato/OT1lato-TLF.fd
 File: OT1lato-TLF.fd 2019/06/24 Font definitions for OT1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 51.
+(Font)              scaled to size 10.95pt on input line 52.
  (./resume.aux
 (./custom-commands.aux))
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
 
 (/opt/texlive/texdir/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
-\scratchdimen=\dimen159
-\scratchbox=\box56
-\nofMPsegments=\count281
-\nofMParguments=\count282
+\scratchcounter=\count290
+\scratchdimen=\dimen168
+\scratchbox=\box102
+\nofMPsegments=\count291
+\nofMParguments=\count292
 \everyMPshowfont=\toks27
-\MPscratchCnt=\count283
-\MPscratchDim=\dimen160
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen169
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
 \everyMPtoPDFconversion=\toks28
 )
-Package hyperref Info: Link coloring OFF on input line 51.
+Package hyperref Info: Link coloring OFF on input line 52.
  (./resume.out) (./resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
-\c@mv@tabular=\count286
-\c@mv@boldtabular=\count287
+\c@mv@tabular=\count296
+\c@mv@boldtabular=\count297
 \openout2 = `custom-commands.aux'.
 
  (./custom-commands.tex
@@ -429,21 +499,20 @@ LaTeX Font Info:    Font shape `OT1/lato-TLF/m/sc' will be
 (Font)              scaled to size 12.0pt on input line 2.
 LaTeX Font Info:    Font shape `OT1/lato-TLF/b/sc' will be
 (Font)              scaled to size 12.0pt on input line 2.
-LaTeX Font Info:    Font shape `OT1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 5.
-) (./src/skills.tex
-LaTeX Font Info:    Font shape `OT1/lato-TLF/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 2.
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
 ine 8.
-
 (/opt/texlive/texdir/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 8.
+LaTeX Font Info:    Font shape `OT1/lato-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 10.
 )
-(./src/experience.tex
+(./src/competencies.tex
+LaTeX Font Info:    Font shape `OT1/lato-TLF/m/sc' will be
+(Font)              scaled to size 10.95pt on input line 1.
+) (./src/skills.tex) (./src/experience.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -455,8 +524,8 @@ LaTeX Font Info:    Font shape `OT1/lato-TLF/m/it' will be
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 7.
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 13.
-) (./src/opensource.tex) (./src/education.tex)
+(Font)              scaled to size 6.0pt on input line 14.
+
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -472,7 +541,13 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 -dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/opt/texlive/texdir/texmf-dist
 /fonts/enc/dvips/fontawesome5/fa5free1.enc}{/opt/texlive/texdir/texmf-dist/font
 s/enc/dvips/lato/a_rt66h3.enc}{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/l
-ato/a_vc7epu.enc}] (./resume.aux (./custom-commands.aux))
+ato/a_vc7epu.enc}]) (./src/opensource.tex) (./src/education.tex)
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 4.08003pt, for example:
+(fancyhdr)                \setlength{\footskip}{4.08003pt}.
+
+[2] (./resume.aux (./custom-commands.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -482,26 +557,26 @@ L3 programming layer <2024-01-22>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 52DB9AEC0954DD54D7F11CF0DCCDDC5F;619.
+(rerunfilecheck)             Checksum: DBF6DC9F15671FDC7EDACDDBF5DD97A4;750.
  ) 
 Here is how much of TeX's memory you used:
- 14431 strings out of 474222
- 250241 string characters out of 5748193
- 1959975 words of memory out of 5000000
- 36469 multiletter control sequences out of 15000+600000
+ 14581 strings out of 474222
+ 252777 string characters out of 5748193
+ 1956975 words of memory out of 5000000
+ 36611 multiletter control sequences out of 15000+600000
  603778 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,299b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,299b,736s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5F
 ree-Solid.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/typoland/lato/Lato-Bo
 ld.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pf
 b></opt/texlive/texdir/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></
 opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/t
 exlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on resume.pdf (1 page, 113526 bytes).
+Output written on resume.pdf (2 pages, 115708 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 87 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
