@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.1)  3 APR 2024 17:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.1)  7 MAY 2024 06:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -507,24 +507,27 @@ File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 8.
 LaTeX Font Info:    Font shape `OT1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 10.
+(Font)              scaled to size 10.0pt on input line 9.
 )
-(./src/competencies.tex
+(./src/skills.tex
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 1.
-) (./src/skills.tex) (./src/experience.tex
+(Font)              scaled to size 10.95pt on input line 2.
+) (./src/professional.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 7.
+(Font)              <10.95> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 7.
+(Font)              <8> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 7.
+(Font)              <6> on input line 6.
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 7.
-LaTeX Font Info:    Font shape `OT1/lato-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 7.
+(Font)              scaled to size 10.0pt on input line 6.
+) (./src/experience.tex
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 14.
+(Font)              scaled to size 6.0pt on input line 10.
+
+Overfull \hbox (0.13698pt too wide) in alignment at lines 28--28
+[] [] 
+ []
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -541,7 +544,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 -dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/opt/texlive/texdir/texmf-dist
 /fonts/enc/dvips/fontawesome5/fa5free1.enc}{/opt/texlive/texdir/texmf-dist/font
 s/enc/dvips/lato/a_rt66h3.enc}{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/l
-ato/a_vc7epu.enc}]) (./src/opensource.tex) (./src/education.tex)
+ato/a_vc7epu.enc}]) (./src/opensource.tex) (./src/education.tex
+LaTeX Font Info:    Font shape `OT1/lato-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 9.
+)
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -557,23 +563,23 @@ L3 programming layer <2024-01-22>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: DBF6DC9F15671FDC7EDACDDBF5DD97A4;750.
+(rerunfilecheck)             Checksum: 61045A1D1D1BB48A7EC787478F1FCDA0;730.
  ) 
 Here is how much of TeX's memory you used:
- 14581 strings out of 474222
- 252777 string characters out of 5748193
- 1956975 words of memory out of 5000000
- 36611 multiletter control sequences out of 15000+600000
+ 14579 strings out of 474222
+ 252715 string characters out of 5748193
+ 1957975 words of memory out of 5000000
+ 36609 multiletter control sequences out of 15000+600000
  603778 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,299b,736s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,299b,734s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5F
 ree-Solid.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/typoland/lato/Lato-Bo
 ld.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pf
 b></opt/texlive/texdir/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></
 opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/t
 exlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on resume.pdf (2 pages, 115708 bytes).
+Output written on resume.pdf (2 pages, 111609 bytes).
 PDF statistics:
  87 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream
