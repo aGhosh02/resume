@@ -71,8 +71,6 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hycolor/hycolor.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hycolor/hycolor.sty
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/auxhook/auxhook.sty
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/auxhook/auxhook.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/refcount/refcount.sty
@@ -83,6 +81,8 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/generic/stringenc/stringenc.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/generic/stringenc/stringenc.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
@@ -207,11 +207,6 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-TS1-TLF.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/typoland/lato/Lato-Bold-OT1-TLF.tfm
-INPUT ./src/competencies.tex
-INPUT ./src/competencies.tex
-INPUT ./src/competencies.tex
-INPUT ./src/competencies.tex
-INPUT src/competencies.tex
 INPUT ./src/skills.tex
 INPUT ./src/skills.tex
 INPUT src/skills.tex
@@ -234,6 +229,11 @@ INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/typoland/lato/Lato-Italic-OT1-TLF.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/typoland/lato/Lato-Italic-OT1-TLF.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-OT1-TLF.tfm
+INPUT ./src/opensource.tex
+INPUT ./src/opensource.tex
+INPUT ./src/opensource.tex
+INPUT ./src/opensource.tex
+INPUT src/opensource.tex
 INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/typoland/lato/Lato-Bold-OT1-TLF.vf
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/typoland/lato/Lato-Bold-OT1-TLF--base.tfm
 INPUT /opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -256,11 +256,6 @@ INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-OT1-TL
 INPUT /opt/texlive/texdir/texmf-dist/fonts/vf/typoland/lato/Lato-Italic-OT1-TLF.vf
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/typoland/lato/Lato-Italic-OT1-TLF--base.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/enc/dvips/lato/a_vc7epu.enc
-INPUT ./src/opensource.tex
-INPUT ./src/opensource.tex
-INPUT ./src/opensource.tex
-INPUT ./src/opensource.tex
-INPUT src/opensource.tex
 INPUT ./src/education.tex
 INPUT ./src/education.tex
 INPUT src/education.tex
